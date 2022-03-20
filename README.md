@@ -4,14 +4,16 @@ I am a video editor turned software developer, building in public using JavaScri
 
 ## Tech stack
 
-<img src="images/Unofficial_JavaScript_logo_2.svg" alt="JavaScript Logo" title="JavaScript" width="50px" style="margin-right: 0.5em; display: inline;" />
-<img src="images/TypeScript%20logo.svg" alt="TypeScript Logo" title="TypeScript" width="50px" style="margin-right: 0.5em; display: inline;" />
-<img src="images/React%20Logo.svg" alt="React Logo" title="React" height="50px" style="margin-right: 0.5em; display: inline;" />
-<img src="images/mui-logo.png" alt="MUI Logo" title="MaterialUI" height="50px" style="margin-right: 0.5em; display: inline;" />
-<img src="images/nodejs-logo.svg" alt="Node.js Logo" title="Node.js" width="50px" style="margin-right: 0.5em; display: inline;" />
-<img src="images/Python-logo-notext.svg" alt="Python Logo" title="Python" width="50px" style="margin-right: 0.5em; display: inline;" />
-<img src="images/ISO_C++_Logo.svg" alt="C++ Logo" title="C++" height="50px" style="margin-right: 0.5em; display: inline;" />
-<img src="images/C_Programming_Language.svg" alt="C Logo" title="C" height="50px" style="margin-right: 0.5em; display: inline;" />
+<div>
+    <img src="images/Unofficial_JavaScript_logo_2.svg" alt="JavaScript Logo" title="JavaScript" width="50px" style="margin-right: 0.5em; display: inline;" />
+    <img src="images/TypeScript%20logo.svg" alt="TypeScript Logo" title="TypeScript" width="50px" style="margin-right: 0.5em; display: inline;" />
+    <img src="images/React%20Logo.svg" alt="React Logo" title="React" height="50px" style="margin-right: 0.5em; display: inline;" />
+    <img src="images/mui-logo.png" alt="MUI Logo" title="MaterialUI" height="50px" style="margin-right: 0.5em; display: inline;" />
+    <img src="images/nodejs-logo.svg" alt="Node.js Logo" title="Node.js" width="50px" style="margin-right: 0.5em; display: inline;" />
+    <img src="images/Python-logo-notext.svg" alt="Python Logo" title="Python" width="50px" style="margin-right: 0.5em; display: inline;" />
+    <img src="images/ISO_C++_Logo.svg" alt="C++ Logo" title="C++" height="50px" style="margin-right: 0.5em; display: inline;" />
+    <img src="images/C_Programming_Language.svg" alt="C Logo" title="C" height="50px" style="margin-right: 0.5em; display: inline;" />
+</div>
 
 ## Social Media
 
