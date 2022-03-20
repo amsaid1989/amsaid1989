@@ -17,12 +17,12 @@ I am a video editor turned software developer, building in public using JavaScri
 
 ## Social Media
 
-<a href="https://twitter.com/amsaid1989" style="outline: none;">
+<a href="https://twitter.com/amsaid1989">
     <img src="images/twitter-logo.png" alt="Twitter Logo" title="Twitter" height="50px" style="margin-right: 0.5em; display: inline;" />
 </a>
-<a href="https://twitch.tv/the_wizard_apprentice" style="outline: none;">
+<a href="https://twitch.tv/the_wizard_apprentice">
     <img src="images/twitch-logo.webp" alt="Twitch Logo" title="Twitch" height="50px" style="margin-right: 0.5em; display: inline;" />
 </a>
-<a href="https://www.youtube.com/channel/UC34qodmBl887kKk7ZIWkG6w" style="outline: none;">
+<a href="https://www.youtube.com/channel/UC34qodmBl887kKk7ZIWkG6w">
     <img src="images/YouTube_full-color_icon_(2017).webp" alt="YouTube Logo" title="YouTube" height="50px" style="margin-right: 0.5em; display: inline;" />
 </a>
