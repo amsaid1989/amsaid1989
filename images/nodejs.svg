@@ -1,37 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
-   width="512"
-   height="512"
-   viewBox="0 0 383.99977 384.0007"
-   data-ember-extension="1"
+   width="44"
+   height="50"
+   viewBox="0 0 11.641669 13.229167"
    version="1.1"
-   id="svg1000"
-   sodipodi:docname="nodejs-logo.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   id="svg5"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1002"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:pageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="1.1391382"
-     inkscape:cx="286.18126"
-     inkscape:cy="278.71948"
-     inkscape:window-width="2560"
-     inkscape:window-height="1031"
-     inkscape:window-x="1920"
-     inkscape:window-y="1280"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg1000" />
   <defs
-     id="defs978">
+     id="defs2">
     <linearGradient
        id="b"
        x1="-0.34799999"
@@ -117,37 +96,40 @@
     </clipPath>
   </defs>
   <g
-     id="g1330"
-     transform="matrix(3.5588752,0,0,3.5588752,-389.04166,-219.60431)">
+     id="layer1">
     <g
-       clip-path="url(#a)"
-       transform="translate(-78.306,-164.016)"
-       id="g990">
-      <path
-         fill="url(#b)"
-         d="m 331.363,246.793 -118.715,-58.19 -60.87,124.174 118.712,58.193 z m 0,0"
-         id="path988"
-         style="fill:url(#b)" />
-    </g>
-    <g
-       clip-path="url(#c)"
-       transform="translate(-78.306,-164.016)"
-       id="g994">
-      <path
-         fill="url(#d)"
-         d="m 144.07,264.004 83.825,113.453 110.86,-81.906 -83.83,-113.45 z m 0,0"
-         id="path992"
-         style="fill:url(#d)" />
-    </g>
-    <g
-       clip-path="url(#e)"
-       transform="translate(-78.306,-164.016)"
-       id="g998">
-      <path
-         fill="url(#f)"
-         d="m 197.02,225.934 v 107.43 h 91.683 v -107.43 z m 0,0"
-         id="path996"
-         style="fill:url(#f)" />
+       id="g1330"
+       transform="matrix(0.12223531,0,0,0.12223531,-14.135976,-7.5226426)">
+      <g
+         clip-path="url(#a)"
+         transform="translate(-78.306,-164.016)"
+         id="g990">
+        <path
+           fill="url(#b)"
+           d="m 331.363,246.793 -118.715,-58.19 -60.87,124.174 118.712,58.193 z m 0,0"
+           id="path988"
+           style="fill:url(#b)" />
+      </g>
+      <g
+         clip-path="url(#c)"
+         transform="translate(-78.306,-164.016)"
+         id="g994">
+        <path
+           fill="url(#d)"
+           d="m 144.07,264.004 83.825,113.453 110.86,-81.906 -83.83,-113.45 z m 0,0"
+           id="path992"
+           style="fill:url(#d)" />
+      </g>
+      <g
+         clip-path="url(#e)"
+         transform="translate(-78.306,-164.016)"
+         id="g998">
+        <path
+           fill="url(#f)"
+           d="m 197.02,225.934 v 107.43 h 91.683 v -107.43 z m 0,0"
+           id="path996"
+           style="fill:url(#f)" />
+      </g>
     </g>
   </g>
 </svg>
