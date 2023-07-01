@@ -7,8 +7,8 @@ To check my most recent work, please visit [The Wizard's Apprentice](https://git
 ## Tech stack
 
 ![C Logo](images/c.svg "C")
-![Python Logo](images/python.svg "Python")
 ![C++ Logo](images/cpp.svg "C++")
+![Python Logo](images/python.svg "Python")
 ![JavaScript Logo](images/javascript.svg "JavaScript")
 ![TypeScript Logo](images/typescript.svg "TypeScript")
 ![React Logo](images/react.svg "React")
