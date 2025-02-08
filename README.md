@@ -1,6 +1,6 @@
 # amsaid1989
 
-I am a video editor turned software developer, building in public using JavaScript/TypeScript as well as C/C++. I am interested in building software for handling media workflows as well as general apps and games.
+I am a video editor turned software developer with interest in low level game and software development.
 
 To check my most recent work, please visit [The Wizard's Apprentice](https://git.thewizardapprentice.com/).
 
